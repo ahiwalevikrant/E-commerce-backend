@@ -1,5 +1,8 @@
 package com.vikrant.ecommerce.service;
 
+import com.vikrant.ecommerce.DTO.CustomerDTO;
+import com.vikrant.ecommerce.DTO.CustomerUpdateDTO;
+import com.vikrant.ecommerce.DTO.SessionDTO;
 import com.vikrant.ecommerce.entity.*;
 import com.vikrant.ecommerce.exception.CustomerException;
 import com.vikrant.ecommerce.exception.CustomerNotFound;

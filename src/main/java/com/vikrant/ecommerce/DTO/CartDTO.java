@@ -1,4 +1,4 @@
-package com.vikrant.ecommerce.entity;
+package com.vikrant.ecommerce.DTO;
 
 
 import jakarta.validation.constraints.Min;

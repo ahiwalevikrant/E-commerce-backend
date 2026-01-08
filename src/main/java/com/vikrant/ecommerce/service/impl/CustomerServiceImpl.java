@@ -1,4 +1,4 @@
-package com.vikrant.ecommerce.service;
+package com.vikrant.ecommerce.service.impl;
 
 
 import org.springframework.stereotype.Service;

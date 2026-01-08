@@ -1,5 +1,7 @@
-package com.vikrant.ecommerce.entity;
+package com.vikrant.ecommerce.DTO;
 
+
+import com.vikrant.ecommerce.entity.CreditCard;
 
 import jakarta.persistence.Embedded;
 import jakarta.validation.constraints.NotNull;

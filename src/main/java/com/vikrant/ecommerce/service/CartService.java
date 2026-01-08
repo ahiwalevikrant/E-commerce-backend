@@ -1,7 +1,7 @@
 package com.vikrant.ecommerce.service;
 
 import com.vikrant.ecommerce.entity.Cart;
-import com.vikrant.ecommerce.entity.CartDTO;
+import com.vikrant.ecommerce.DTO.CartDTO;
 import com.vikrant.ecommerce.exception.CartItemNotFound;
 import com.vikrant.ecommerce.exception.ProductNotFound;
 

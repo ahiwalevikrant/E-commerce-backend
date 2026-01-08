@@ -1,4 +1,4 @@
-package com.vikrant.ecommerce.entity;
+package com.vikrant.ecommerce.DTO;
 
 import jakarta.persistence.Column;
 import jakarta.validation.constraints.Email;
@@ -11,6 +11,8 @@ import lombok.ToString;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import com.vikrant.ecommerce.entity.Address;
 
 @Data
 @AllArgsConstructor
