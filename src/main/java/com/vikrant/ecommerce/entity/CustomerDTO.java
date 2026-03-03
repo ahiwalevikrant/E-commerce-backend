@@ -24,5 +24,6 @@ public class CustomerDTO {
     @Email
     private String emailId;
 
+    private String newPassword;
 
 }
