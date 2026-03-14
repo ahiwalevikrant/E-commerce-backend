@@ -12,4 +12,8 @@ public class SessionDTO {
     private String token;
 
     private String message;
+    
+    private Integer userId;
+    
+    private String emailId;
 }
